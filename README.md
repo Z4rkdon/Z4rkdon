@@ -1,4 +1,4 @@
-<h2 align="center">Olá e sejam bem-vindos ao meu Github</h2>
+<h2 align="center">Olá!!! e sejam bem-vindos ao meu Github</h2>
 
 ###
 
@@ -9,7 +9,8 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="<img width="220" height="132" alt="image" src="https://github.com/user-attachments/assets/e17b656c-627b-41e0-a864-709e9c858bae" />
+"  />
 
 ###
 
